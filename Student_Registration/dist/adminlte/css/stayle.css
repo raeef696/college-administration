@@ -1,0 +1,24 @@
+*{
+    direction: ltr;
+}
+.fa-database {
+    color: #fff;
+    font-size: 25px;
+    padding: 3px;
+}
+.row-2{
+    margin-top: 70px;
+    padding: 15px;
+}
+.row-grop {
+    margin: auto;
+
+    /* height: 350px; */
+}
+.desgin-form {
+   margin: 60px auto;
+   width: 340px;
+}
+h2 {
+    color: #ff8800;
+}

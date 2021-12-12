@@ -1,0 +1,41 @@
+.nav{
+    margin-top: 11px;
+}
+.jumbotron {
+    padding: 100px;
+    margin-top: 11px;
+    background-color: #000033;
+    color: #fff;
+}
+.lead {
+    padding: 20px;
+}
+
+li a{
+    color: #777777;
+}
+.FACI {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #ff8800;
+    
+}
+h2 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: #ff8800;
+}
+.FACI::before, .FACI::after{
+    content: "-----";
+    letter-spacing: -5px;
+    font-weight: lighter;
+    margin: 0 20px 0 10px;
+}
+footer {
+    /* background-color:#000; */
+    margin-top: 90px;
+}
+
+.nav-pills li a{
+    color: #777777;
+    font-weight: bold;
+}
